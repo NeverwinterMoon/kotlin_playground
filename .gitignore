@@ -1,0 +1,17 @@
+.gradle/
+.idea/atlassian-ide-plugin.xml
+.idea/azureSettings.xml
+.idea/markdown-exported-files.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator
+.idea/copyright/
+.idea/dictionaries/
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+.idea/modules/
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/shelf/
+.idea/kotlinc.xml
+.idea/typescript-compiler.xml
+*.iml
